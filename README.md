@@ -1,8 +1,8 @@
-- 👋 Hi, I’m : @KB-aiz
+- 👋 Hi, I’m : Kiattisak Nual-ai
 - 👀 I’m interested in : Programming
-- 🌱 I’m currently learning : C Language
-- 💞️ I’m looking to collaborate on : ...
-- 📫 How to reach me : Facebook : Kiattisak Nual-ai
+- 🌱 I’m currently learning : JavaScript, Python Language
+- 📫 How to reach me :
+    Facebook : Kiattisak Nual-ai
 
 <!---
 KB-aiz/KB-aiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
